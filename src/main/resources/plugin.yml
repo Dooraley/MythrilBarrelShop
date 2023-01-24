@@ -1,0 +1,5 @@
+name: MythrilBarrelShop
+version: '${project.version}'
+main: mythril.studio.Main
+api-version: 1.17
+authors: [MythrilStudio]
